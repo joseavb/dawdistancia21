@@ -6,7 +6,7 @@
  *
  * @category   DAW
  * @package    phpDocumentor
- * @author     Jose Abtonio Vallecillo Barroso
+ * @author     Jose Antonio Vallecillo Barroso
  * @license    http://www.opensource.org/licenses/lgpl-license.php LGPL
  * @link       http://pear.php.net/package/PhpDocumentor
  * @see        phpdoc.php
